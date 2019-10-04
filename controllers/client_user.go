@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"an/models"
+	"LG/models"
 	"github.com/astaxie/beego"
 	"time"
 )
